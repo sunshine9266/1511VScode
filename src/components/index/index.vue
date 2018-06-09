@@ -28,7 +28,7 @@
 		<div class="drakline"></div>
 		<!--办公电脑组件-->
 		<computer :computerData="computerObj"></computer>
-		<!--为你推荐模块-->
+		<!--为你推荐模块组件-->
 		<commendforyou></commendforyou>
 		<bottom-nav></bottom-nav>
     </pull-to>
