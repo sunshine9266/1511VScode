@@ -107,7 +107,6 @@ export default {
         //					document.removeEventListener("scroll",this.changeColorFn)
       } else {
         this.changeColor = false;
-        //				console.log("再出来")
       }
     },
     refresh(loaded) {
