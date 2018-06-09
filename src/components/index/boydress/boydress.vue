@@ -10,7 +10,6 @@
   		</div>
   		<!--<div class="right">
   			<h6>波司登秋冬季加绒加厚打底裤</h6>
-  			<p>火爆开售</p>
   			<img src="./1.jpg"/>
   		</div>-->
   	</li>
